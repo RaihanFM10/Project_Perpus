@@ -575,7 +575,6 @@
     </a>
     <p>© 2026 PerpusInd · Perpustakaan Digital Indonesia. Semua hak dilindungi.</p>
 </footer>
-<div class="footer-stripe"><div class="r"></div><div class="w"></div></div>
 
 <script>
     const obs = new IntersectionObserver(entries => {
